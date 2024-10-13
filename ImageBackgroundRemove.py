@@ -1,18 +1,19 @@
 from rembg import remove
 from PIL import Image
-import io
 
 # Define input and output paths
-input_path = "/workspaces/pythontest/cl.PNG"
-output_path = "/workspaces/pythontest/cl.PNG"
+input_path = "/workspaces/pythontest/lamborgini.jpeg"  # Make sure this file exists
+output_path = "/workspaces/pythontest/lamborginiedited.jpeg"
 
 # Open the input image
 input_image = Image.open(input_path)
 
 # Remove the background from the input image
-output_image = remove(input_image)  # This directly gives you a PIL Image
+output_image = remove(input_image)
+
+# Convert to RGB (if saving as JPEG) or keep as RGBA for PNG
+if output_image.mode == 'RGBA':
+    output_image = output_image.convert('RGB')
 
 # Save the output image
-output_image.save(output_path)
-
-print("Output image saved as:", output_path)
+output_image.save(output_path, format='PNG')  # You can change 'PNG' to 'JPEG' if needed
