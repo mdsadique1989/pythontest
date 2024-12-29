@@ -2,8 +2,8 @@ from rembg import remove
 from PIL import Image
 
 # Define input and output paths
-input_path = "/workspaces/pythontest/3Ediots.png"  # Make sure this file exists
-output_path = "/workspaces/pythontest/3Ediotsedited.png"
+input_path = "/workspaces/pythontest/test.jpg"  # Make sure this file exists
+output_path = "/workspaces/pythontest/testedited.jpg"
 
 # Open the input image
 input_image = Image.open(input_path)
