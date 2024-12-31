@@ -1,3 +1,8 @@
+PIL
+# pip install pdf2image
+# pip install PIL
+
+
 import pytesseract
 from pdf2image import convert_from_path
 from PIL import Image

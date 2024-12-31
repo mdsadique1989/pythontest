@@ -1,3 +1,6 @@
+# Install the barcode library if not already installed
+# pip install speedtest
+
 import speedtest
 
 def test_network_speed():

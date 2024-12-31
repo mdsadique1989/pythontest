@@ -1,3 +1,6 @@
+# Install the barcode library if not already installed
+# pip install captcha
+
 import random
 from captcha.audio import AudioCaptcha
 
