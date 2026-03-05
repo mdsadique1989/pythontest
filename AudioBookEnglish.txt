@@ -1,4 +1,180 @@
-India is a beautiful land with a variety of wildlife and rich cultural diversity.
-The Bengal Tiger is considered the national animal of India. 
-India celebrates its Independence Day on 15th August every year. 
-It is observed to commemorate the freedom of India from the British
+Introduction of Database 
+
+
+
+
+
+After learning about importance of data in the 
+
+Previous chapter, we need to explore the methods 
+
+To store and manage data electronically. Let us 
+
+Take an example of a school that maintains data 
+
+About its students, along with their attendance 
+
+Record and guardian details.
+
+The class teacher marks daily attendance of the 
+
+Students in the attendance register. The teacher 
+
+Records ‘P’ for present or ‘A’ for absent against 
+
+Each student’s roll number on each working day. 
+
+If class strength is 50 and total working days 
+
+In a month are 26, the teacher needs to record 
+
+50×26 records manually in the register every 
+
+Month. As the volume of data increases, manual 
+
+Data entry becomes tedious. Following are some 
+
+Of the limitations of manual record keeping in 
+
+This example:
+1) Entry of student details (Roll number and name) 
+
+in the new attendance register when the student is 
+
+promoted to the next class.
+
+2) Writing student details on each month’s attendance 
+
+page where inconsistency may happen due to 
+
+incorrectly written names, skipped student 
+
+records, etc.
+
+3) Loss of data in case attendance register is lost 
+or damaged.
+
+4) Erroneous calculation while consolidating 
+
+attendance record manually.
+
+The office staff also manually maintain student details 
+
+viz. Roll Number, Name and Date of Birth with respective 
+
+guardian details viz. Guardian name, Contact Number 
+
+and Address. This is required for correspondence with 
+
+guardian regarding student attendance and result.
+
+Finding information from a huge volume of papers 
+
+or deleting/modifying an entry is a difficult task in pen 
+
+and paper based approach. To overcome the hassles 
+
+faced in manual record keeping, it is desirable to store 
+
+attendance record and student details on separate data 
+
+files on a computerised system, so that office staff and 
+
+teachers can:
+
+1) Simply copy the student details to the new 
+
+attendance file from the old attendance file when 
+
+students are promoted to next class.
+
+2) Find any data about student or guardian.
+
+3) Add more details to existing data whenever a new 
+
+student joins the school.
+
+4) Modify stored data like details of student or guardian 
+
+whenever required.
+
+5) Remove/delete data whenever a student leaves 
+
+the school.
+
+
+
+
+After learning about importance of data in the 
+
+
+Previous chapter, we need to explore the methods 
+
+To store and manage data electronically. Let us 
+
+Take an example of a school that maintains data 
+
+About its students, along with their attendance 
+
+Record and guardian details.
+
+The class teacher marks daily attendance of the 
+
+Students in the attendance register. The teacher 
+
+Records ‘P’ for present or ‘A’ for absent against 
+
+Each student’s roll number on each working day. 
+
+If class strength is 50 and total working days 
+
+In a month are 26, the teacher needs to record 
+
+50×26 records manually in the register every 
+
+Month. As the volume of data increases, manual 
+
+Data entry becomes tedious. Following are some 
+
+Of the limitations of manual record keeping in 
+
+This example:
+1) Entry of student details (Roll number and name)                                                                                                                          
+in the new attendance register when the student is 
+promoted to the next class.
+2) Writing student details on each month’s attendance 
+page where inconsistency may happen due to 
+incorrectly written names, skipped student 
+records, etc.
+3) Loss of data in case attendance register is lost 
+or damaged.
+4) Erroneous calculation while consolidating 
+attendance record manually.
+The office staff also manually maintain student details 
+viz. Roll Number, Name and Date of Birth with respective 
+guardian details viz. Guardian name, Contact Number 
+and Address. This is required for correspondence with 
+guardian regarding student attendance and result.
+Finding information from a huge volume of papers 
+or deleting/modifying an entry is a difficult task in pen 
+and paper based approach. To overcome the hassles 
+faced in manual record keeping, it is desirable to store 
+attendance record and student details on separate data 
+files on a computerised system, so that office staff and 
+teachers can:
+1) Simply copy the student details to the new 
+attendance file from the old attendance file when 
+students are promoted to next class.
+2) Find any data about student or guardian.
+3) Add more details to existing data whenever a new 
+student joins the school.
+4) Modify stored data like details of student or guardian 
+whenever required.
+5) Remove/delete data whenever a student leaves 
+the school.
+
+
+
+
+
+

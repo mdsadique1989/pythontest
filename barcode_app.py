@@ -13,5 +13,5 @@ def generate_barcode(data):
     print("Barcode generated and saved as 'barcode.png'.")
 
 # Main execution
-data = "1234-5678-9101"
+data = "https://docs.google.com/forms/d/1hNJDgyA4jYkhctM0iQpkvKCSBKuxdarfoCsnL5o_QYs/preview?edit_requested=true"
 generate_barcode(data)
