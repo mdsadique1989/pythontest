@@ -1,17 +1,24 @@
 # pythontest
 
 Toggle Line Comment:
+This method adds a single-line comment character (like // or #) to the beginning of each selected line. 
+Using the same shortcut again will uncomment the lines. 
 
-This method adds a single-line comment character (like // or #) to the beginning of each selected line. Using the same shortcut again will uncomment the lines. 
 Windows/Linux: Ctrl + /
+
 Windows/Linux: Ctrl + /
+
 macOS: Command + /
 
 
 Toggle Block Comment :
-This method wraps the entire selected block of code within a single block comment syntax (like /* ... */ for CSS/HTML or docstrings in Python, depending on the language and settings). Using the shortcut again removes the block comment.
+This method wraps the entire selected block of code within a single block comment syntax (like /* ... */ for CSS/HTML or docstrings in Python, depending on the language and settings). 
+Using the shortcut again removes the block comment.
+
 Windows: Shift + Alt + A
+
 macOS: Shift + Option + A
+
 Linux: Ctrl + Shift + A.
 
 
